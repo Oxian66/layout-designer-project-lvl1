@@ -224,7 +224,8 @@ a {
 .video {
   position: relative;
 
-  margin-bottom: -200px;
+  /*margin-bottom: -200px;*/
+  margin-bottom: -90px;
 
   border: 0;
 
